@@ -21,3 +21,7 @@ layout: default
 * Student Assistant, Steinbuch Centre for Computing, feb 2012 - dec 2016
 * Student Assistant, Institut für Technische Informatik, Karlsruhe Institute of Technology, jul 2016 - oct 2016
 * Student Assistant, Fraunhofer Institute of Optronics, System Technologies and Image Exploitation IOSB, feb 2013 - dec 2013
+
+## Volunteer Work
+* Councilor in Charitable Foundation Wahlandt Stiftung
+* Poll Worker
