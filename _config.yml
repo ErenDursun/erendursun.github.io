@@ -7,5 +7,5 @@ minima:
     github: ErenDursun
     linkedin: eren-dursun-32a48464
 header_pages:
-  - index.md
+  - about.md
 theme: minima
