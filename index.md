@@ -5,13 +5,14 @@ layout: default
 
 ## Interests
 * Algorithmic Trading
-* Artificial Intelligence
+* Artificial Intelligence (Deep Learning, Reinforcement Learning)
 * Crypto Currencies
 * Energy Trading
 
 ## Skills
 * Java, C#, Python, Go, C++
 * DevOps, Docker, GitLab, Jenkins, Ansible
+* Tensorflow, Keras, Pandas
 * Linux (Ubuntu, Debian, CentOS, RHEL)
 
 ## Career
