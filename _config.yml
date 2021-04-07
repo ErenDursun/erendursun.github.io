@@ -1,0 +1,11 @@
+title: Eren Dursun
+author:
+  name: Eren Dursun
+  email: "eren.m.dursun@gmail.com"
+minima:
+  social_links:
+    github: ErenDursun
+    linkedin: eren-dursun-32a48464
+header_pages:
+  - index.md
+theme: minima
