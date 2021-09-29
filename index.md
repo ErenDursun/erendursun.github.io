@@ -11,9 +11,12 @@ layout: default
 
 ## Skills
 * Java, C#, Python, Go, C++
+* API Design for Algorithmic Trading (gRPC, Protocol Buffers, REST, Apache Kafka)
+* Automated Trading Algorithms for Energy Commodities (power, gas, coal)
+* Advanced Data Structures, Algorithms, Time and Space Complexity
 * DevOps, Docker, GitLab, Jenkins, Ansible
 * Tensorflow, Keras, Pandas
-* Linux (Ubuntu, Debian, CentOS, RHEL)
+* Linux Know-how (Ubuntu, Debian, CentOS, RHEL)
 
 ## Career
 * Senior IT Consultant, EXXETA AG, jan 2021 - now
